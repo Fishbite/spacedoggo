@@ -13,6 +13,7 @@ ul {
     display: block;
     margin: 0 0;
     list-style: none;
+    float: left;
 }
   
   h1 {
