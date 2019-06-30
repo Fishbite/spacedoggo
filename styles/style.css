@@ -2,6 +2,10 @@ body {
     font-family: Arial;
     background-color: darkgrey;
   }
+
+#container {
+    max-width: 600px;
+}
   
   h1 {
     color: white;
